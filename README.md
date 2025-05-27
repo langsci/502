@@ -1,4 +1,4 @@
-# The dynamics of feminisation \subtitle{A corpus-based diachronic analysis of Dutch and German feminising morphology}
+# The dynamics of feminisation: A corpus-based diachronic analysis of Dutch and German feminising morphology
 ## Publication Info
 - Authors: Natalie Verelst %use this field for editors as well
 - Publication Date: not yet published
